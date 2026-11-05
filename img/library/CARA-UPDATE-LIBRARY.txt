@@ -1,0 +1,27 @@
+LIBRARY LAYOUT PREVIEW - BINNER
+================================
+
+Setiap tema punya folder sendiri:
+  img/library/wedding/   graduation/   yearbook/   birthday/   travel/   corporate/
+
+Ada 2 cara mengisi contoh flipbook per tema:
+
+A) FOTO SAJA (otomatis dibuatkan layout)
+   - Taruh 5-10 foto JPG di folder  img/library/<tema>/photos/
+   - Tulis nama filenya di library.json bagian "photos".
+   - Website otomatis menyusun layout untuk Landscape, Portrait, dan Square.
+
+B) LAYOUT JADI (hasil desain tim, per orientasi)
+   - Taruh halaman JPG berurutan (cover depan, hal 1, 2, ..., cover belakang) di:
+       img/library/<tema>/landscape/   portrait/   square/
+   - Tulis daftar file tersebut di library.json bagian "layouts" -> "landscape" / "portrait" / "square".
+   - Kalau orientasi itu sudah diisi, website memakai layout jadi ini.
+     Kalau masih kosong [], website memakai cara A.
+
+Pengaturan cover per tema di library.json:
+   "title"      : judul di cover (contoh "Leana & Micheal")
+   "subtitle"   : tulisan kecil di atas judul
+   "cover"      : "linen" atau "paper"
+   "coverColor" : Brown / Cream / Black / White   (untuk paper: "Paper White")
+
+Setelah selesai, upload ulang folder website ke Netlify (tab Deploys).

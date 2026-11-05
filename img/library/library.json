@@ -1,0 +1,116 @@
+{
+  "themes": {
+    "wedding": {
+      "name": "Wedding",
+      "title": "Leana & Micheal",
+      "subtitle": "The Wedding of",
+      "cover": "linen",
+      "coverColor": "Cream",
+      "photos": [
+        "img/library/wedding/photos/01.jpg",
+        "img/library/wedding/photos/02.jpg",
+        "img/library/wedding/photos/03.jpg",
+        "img/library/wedding/photos/04.jpg",
+        "img/library/wedding/photos/05.jpg",
+        "img/library/wedding/photos/06.jpg",
+        "img/library/wedding/photos/07.jpg",
+        "img/library/wedding/photos/08.jpg"
+      ],
+      "layouts": {
+        "landscape": [],
+        "portrait": [],
+        "square": []
+      }
+    },
+    "yearbook": {
+      "name": "Yearbook",
+      "title": "Yearbook 2026",
+      "subtitle": "A Year to Remember",
+      "cover": "linen",
+      "coverColor": "Black",
+      "photos": [
+        "img/library/yearbook/photos/01.jpg",
+        "img/library/yearbook/photos/02.jpg",
+        "img/library/yearbook/photos/03.jpg",
+        "img/library/yearbook/photos/04.jpg",
+        "img/library/yearbook/photos/05.jpg"
+      ],
+      "layouts": {
+        "landscape": [],
+        "portrait": [],
+        "square": []
+      }
+    },
+    "travel": {
+      "name": "Travel",
+      "title": "Bali & Beyond",
+      "subtitle": "A Frame from Every Stop",
+      "cover": "linen",
+      "coverColor": "Brown",
+      "photos": [
+        "img/library/travel/photos/01.jpg",
+        "img/library/travel/photos/02.jpg",
+        "img/library/travel/photos/03.jpg",
+        "img/library/travel/photos/04.jpg"
+      ],
+      "layouts": {
+        "landscape": [],
+        "portrait": [],
+        "square": []
+      }
+    },
+    "graduation": {
+      "name": "Graduation",
+      "title": "Class of 2026",
+      "subtitle": "Graduation Memories",
+      "cover": "paper",
+      "coverColor": "Paper White",
+      "photos": [
+        "img/library/graduation/photos/01.jpg",
+        "img/library/graduation/photos/02.jpg",
+        "img/library/graduation/photos/03.jpg",
+        "img/library/graduation/photos/04.jpg",
+        "img/library/graduation/photos/05.jpg"
+      ],
+      "layouts": {
+        "landscape": [],
+        "portrait": [],
+        "square": []
+      }
+    },
+    "birthday": {
+      "name": "Birthday",
+      "title": "Sweet Seventeen",
+      "subtitle": "Happy Birthday",
+      "cover": "linen",
+      "coverColor": "White",
+      "photos": [
+        "img/library/birthday/photos/01.jpg",
+        "img/library/birthday/photos/02.jpg",
+        "img/library/birthday/photos/03.jpg"
+      ],
+      "layouts": {
+        "landscape": [],
+        "portrait": [],
+        "square": []
+      }
+    },
+    "corporate": {
+      "name": "Corporate",
+      "title": "Team Retreat 2026",
+      "subtitle": "Off the Desk",
+      "cover": "linen",
+      "coverColor": "Black",
+      "photos": [
+        "img/library/corporate/photos/01.jpg",
+        "img/library/corporate/photos/02.jpg",
+        "img/library/corporate/photos/03.jpg"
+      ],
+      "layouts": {
+        "landscape": [],
+        "portrait": [],
+        "square": []
+      }
+    }
+  }
+}
